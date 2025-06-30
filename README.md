@@ -82,25 +82,15 @@ No training or machine learning was used, as NDVI is computed directly from the 
 
 NDVI
 =
-𝑁
-𝐼
-𝑅
-−
-𝑅
-𝐸
-𝐷
-𝑁
-𝐼
-𝑅
-+
-𝑅
-𝐸
-𝐷
-NDVI= 
+NIR-RED/
 NIR+RED
-NIR−RED
 ​
- 
+![image](https://github.com/user-attachments/assets/0c0f0d2c-8bbb-46f6-b4ed-6e6e17f9d550)
+
+![image](https://github.com/user-attachments/assets/e7eaf7c8-696c-458f-9192-ed7e10a08872)
+
+![image](https://github.com/user-attachments/assets/08b7e96d-7f6d-4ea8-a872-7f21aad7d3e2)
+
 # Possible Extensions
 Compare multiple years (e.g., 2020 vs. 2021)
 
