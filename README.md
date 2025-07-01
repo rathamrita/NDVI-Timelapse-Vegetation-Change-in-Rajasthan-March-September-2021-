@@ -92,7 +92,7 @@ NIR+RED
 ![image](https://github.com/user-attachments/assets/08b7e96d-7f6d-4ea8-a872-7f21aad7d3e2)
 
 
-# CLICK ON THIS GIF BELOW TO VISUALLY SEE VEGETATION INDEX CHANGE FROM SUMMER TO MONSOON
+### CLICK ON THIS GIF BELOW TO VISUALLY SEE VEGETATION INDEX CHANGE FROM SUMMER TO MONSOON
 ![ndvi_timelapse_mar_to_sep](https://github.com/user-attachments/assets/32d21272-3daa-4d00-bee8-8164ef580602)
 
 # Possible Extensions
