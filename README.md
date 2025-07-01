@@ -91,6 +91,9 @@ NIR+RED
 
 ![image](https://github.com/user-attachments/assets/08b7e96d-7f6d-4ea8-a872-7f21aad7d3e2)
 
+![ndvi_timelapse_mar_to_sep](https://github.com/user-attachments/assets/32d21272-3daa-4d00-bee8-8164ef580602)
+
+
 # Possible Extensions
 Compare multiple years (e.g., 2020 vs. 2021)
 
