@@ -16,14 +16,10 @@ Earth Engine authenticated using ee.Authenticate() and initialized with your GCP
 
 2. AOI Definition
 Defined an Area of Interest (AOI) as a circular buffer around a point in Rajasthan.
-
-python
-Copy
-Edit
 aoi = ee.Geometry.Point([72.6144, 27.0238]).buffer(20000)
+
 3. Loading and Filtering NDVI Data
 Loaded the VIIRS NDVI ImageCollection.
-
 Filtered by date and AOI for 2021.
 
 4. Extracting Time Series Data
