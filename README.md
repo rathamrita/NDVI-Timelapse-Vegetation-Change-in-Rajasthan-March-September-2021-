@@ -12,7 +12,7 @@ Spatial Focus: A 20 km buffered area around Udaipur, Rajasthan (72.6144°E, 27.0
 
 # Code Workflow
 1. Initialization
-Earth Engine authenticated using ee.Authenticate() and initialized with your GCP project.
+Earth Engine authenticated using ee.Authenticate() and initialized with my GCP project.
 
 2. AOI Definition
 Defined an Area of Interest (AOI) as a circular buffer around a point in Rajasthan.
